@@ -13,7 +13,6 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
-![](https://readme-now-playing.vercel.app/now-playing/q?uid=https://open.spotify.com/user/g217mjq3f1vo2locjlm8m71ql?si=73e0c8d9977e4274)
 
 
 
