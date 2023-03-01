@@ -21,8 +21,6 @@
 
 
 
-![snake gif](https://github.com/Sampurn44/Sampurn44/blob/output/github-contribution-grid-snake.gif)
-
 
 
 <!---
