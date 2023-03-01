@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampurn Chouksey (Dev)</h1>
-<h3 align="center">A passionate App Developer @juet</h3>
+<h3 align="center">A newbie App Developer @juet</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampurn44&label=Profile%20views&color=0e75b6&style=flat" alt="sampurn44" /> </p>
 
