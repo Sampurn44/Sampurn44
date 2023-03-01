@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sampurn44
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning C & Python 
-- 💞️ I’m looking to collaborate on any project that helps me learn new things
+- 👋 Hi, I’m Sampurn Chouksey
+- 👀 I’m interested in App Dev and Competitive Coding
+- 🌱 I’m currently learning Kotlin and Python
 - 📫 How to reach me mail at sampurn10chouksey@gmail.com
 
 <!---
