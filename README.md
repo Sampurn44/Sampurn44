@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Kotlin and Python
 - 📫 How to reach me mail at sampurn10chouksey@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sampurn44&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sampurn44&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sampurn44&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sampurn44&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sampurn44&theme=juicyfresh&no-bg=true" />
@@ -15,8 +16,7 @@
 
 
 
-![Sampurn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sampurn44&show_icons=true&theme=radical)
-
+![Sampurn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sampurn44&show_icons=true&theme=tokyonight)
 
 
 
