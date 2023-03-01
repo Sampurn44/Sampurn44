@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sampurn Chouksey
+- 👋 Hi, I’m Sampurn Chouksey (Dev)
 - 👀 I’m interested in App Dev and Competitive Coding
 - 🌱 I’m currently learning Kotlin and Python
 - 📫 How to reach me mail at sampurn10chouksey@gmail.com
