@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)
+![MasterHead]<a href="g.dev/sampurn">(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)</a>
 <h1 align="center">Hi 👋, I'm Sampurn Chouksey (Dev)</h1>
 <h3 align="center">A newbie App Developer @juet</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
