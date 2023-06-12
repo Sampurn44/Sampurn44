@@ -24,7 +24,7 @@
 <a href="https://www.codechef.com/users/porous_monster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="porous_monster" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sampurn10chouks1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/800px-HackerRank_logo.png" alt="sampurn10chouks1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/suspicious31" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="suspicious31" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/porous_monster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="porous_monster" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/porous_monster" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="porous_monster" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/ad67612e-4549-4fc7-ae86-38ad1456aa59" target="blank"><img align="center" src="https://files.codingninjas.in/0000000000000723.jpg" alt="sampurn_44#8459" height="30" width="40" /></a>
 </p>
 
