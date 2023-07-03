@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Dart and Python**
 
-- 🤝 I’m looking for help with **App Development**
+- 🤝 I’m looking for help with **Flutter Development**
 
 - 💬 Ask me about **C++**
 
