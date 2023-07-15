@@ -20,7 +20,6 @@
 <p align="left">
 <a href="https://twitter.com/sampurn_44" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="sampurn_44" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sampurn-chouksey-072a23220/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/sampurn-chouksey-072a23220/" height="30" width="40" /></a>
-<a href="https://instagram.com/sampurn.cpp" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg" alt="sampurn.cpp" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/porous_monster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="porous_monster" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sampurn10chouks1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/800px-HackerRank_logo.png" alt="sampurn10chouks1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/suspicious31" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="suspicious31" height="30" width="40" /></a>
