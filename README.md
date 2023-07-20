@@ -1,4 +1,8 @@
-<!--![Header](/image.png)-->
+<p align="center">
+
+<img width="1000" height="450" src="https://github.com/Sampurn44/Sampurn44/blob/38fd2f678773a2b15df806c13b7cd20349aaee48/ecaspe.png" alt="my banner">
+
+</p><!--![Header](/image.png)-->
 <h1 align="center">Hi 👋, I'm Sampurn Chouksey (Dev)</h1>
 <h2 align="center"> I'm a  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a>Flutter Developer and AI/ML enthusiast. @juet </h2>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
