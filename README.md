@@ -20,11 +20,13 @@
 - 📫 How to reach me **mail at sampurn10chouksey@gmail.com**
 
 - ⚡ Fun fact **I make jokes when I am uncomfortable**
+- <a href="https://drive.google.com/file/d/1x77rq5jeYpgziZDzVNClfD9MOjHzCjMo/view?usp=drive_link" >🖱️Click to view my resume</a> 
+  
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sampurn_44" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="sampurn_44" height="30" width="40" /> </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sampurn-chouksey-072a23220/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/sampurn-chouksey-072a23220/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sampurn-chouksey-072a23220/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/sampurn-chouksey-072a23220/" height="30" width="40" /></a>
   <h3 align="left">Coding Platforms I use: </h3>
   <p align="left">
 <a href="https://www.codechef.com/users/porous_monster" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" alt="porous_monster" height="30" width="60" /> </a>
