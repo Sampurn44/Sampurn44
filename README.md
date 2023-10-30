@@ -20,7 +20,7 @@
 - 📫 How to reach me **mail at sampurn10chouksey@gmail.com**
 
 - ⚡ Fun fact **I make jokes when I am uncomfortable**
-- <a href="https://drive.google.com/file/d/1x77rq5jeYpgziZDzVNClfD9MOjHzCjMo/view?usp=drive_link" >🖱️Click to view my resume</a> 
+- 🖱️ <a href="https://drive.google.com/file/d/1x77rq5jeYpgziZDzVNClfD9MOjHzCjMo/view?usp=sharing" >Click to view my resume</a> 
   
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
