@@ -5,7 +5,7 @@
 </p><!--![Header](/image.png)-->
 <h1 align="center">Hi 👋, I'm Sampurn Chouksey (Dev)</h1>
 <h2 align="center"> I'm a  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a>Flutter Developer and AI/ML enthusiast. @juet </h2>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampurn44&label=Profile%20views&color=0e75b6&style=flat" alt="sampurn44" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sampurn_44" target="blank"><img src="https://img.shields.io/twitter/follow/sampurn_44?logo=twitter&style=for-the-badge" alt="sampurn_44" /></a> </p>
