@@ -2,7 +2,7 @@
 
 <img width="1000" height="450" src="https://github.com/Sampurn44/Sampurn44/blob/38fd2f678773a2b15df806c13b7cd20349aaee48/ecaspe.png" alt="my banner">
 
-</p><!--![Header](/image.png)-->
+</p>
 <h1 align="center">Hi 👋, I'm Sampurn Chouksey (Dev)</h1>
 <h2 align="center"> I'm a  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a>Flutter Developer and AI/ML enthusiast. @juet </h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
