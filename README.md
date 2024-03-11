@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://twitter.com/sampurn_44" target="blank"><img src="https://img.shields.io/twitter/follow/sampurn_44?logo=twitter&style=for-the-badge" alt="sampurn_44" /></a> </p>
 <h3> 💫 About Me:</h3>
 
+
 -  🌱 I’m currently learning **Dart and Python**
 
 - 🤝 I’m looking for help with **Flutter Development**
@@ -20,7 +21,8 @@
 
 - ⚡ Fun fact **I make jokes when I am uncomfortable**
 - 🖱️ <a href="https://drive.google.com/file/d/1IqUHRhMLqVfsOuBaQWUKY1rduM-ZFwJp/view?usp=sharing" >Click to view my resume</a> 
-  
+
+
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,8 +49,7 @@
 <h3 align="left">
  📊GitHub Stats:</h3> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sampurn44&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sampurn44&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sampurn44&background=100%2C000000%2CFFFFFF&border=FFD700&stroke=FFD700&ring=FFD700&fire=AA4203&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=FFD700&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
 
 ![Sampurn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sampurn44&show_icons=true&theme=tokyonight)
 
