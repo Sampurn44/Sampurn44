@@ -2,9 +2,27 @@
 <img width="1000" height="450" src="https://github.com/Sampurn44/Sampurn44/blob/38fd2f678773a2b15df806c13b7cd20349aaee48/ecaspe.png" alt="my banner">
 
 </p>
-<h1 align="center">Hi 👋, I'm Sampurn Chouksey (Dev)</h1>
-<h2 align="center"> I'm a Associate Software Engineer (SDET) at  <a href="https://recruitcrm.io/" target="_blank" rel="noreferrer"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/7d/94/937d9412-0a05-0bc6-2dd7-139be6d34d39/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" alt="Recruitcrm" width="20" height="20"/> </a>Recruit CRM</h2>
-<h2 align="center"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a>Flutter Developer and AI/ML enthusiast. @juet </h2>
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Sampurn Chouksey</span> (Dev)</h1>
+<h3 align="center">Associate Software Engineer (SDET) at 
+  <a href="https://recruitcrm.io/" target="_blank" rel="noreferrer">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/7d/94/937d9412-0a05-0bc6-2dd7-139be6d34d39/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" alt="Recruit CRM" width="20" height="20"/>
+  </a>
+  Recruit CRM
+</h3>
+
+<h3 align="center">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="20" height="20"/>
+  </a>
+  Flutter Developer & AI/ML Enthusiast @ JUET
+</h3>
+<!-- <p align="center">
+ <strong>Skills:</strong> Flutter | AI/ML | Testing Automation | Java | Python
+ </p>  -->
+<hr>
+
+
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampurn44&label=Profile%20views&color=0e75b6&style=flat" alt="sampurn44" /> </p>
 
