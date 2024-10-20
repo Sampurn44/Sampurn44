@@ -10,17 +10,18 @@
 <p align="left"> <a href="https://twitter.com/sampurn_44" target="blank"><img src="https://img.shields.io/twitter/follow/sampurn_44?logo=twitter&style=for-the-badge" alt="sampurn_44" /></a> </p>
 <h3> 💫 About Me:</h3>
 
+-  🏢 I’m currently working at **Recruit CRM** as **Associate Software Engineer (SDET)**
 
--  🌱 I’m currently learning **Dart and Python**
+-  🌱 I’m currently learning **Selenium**
 
-- 🤝 I’m looking for help with **Flutter Development**
+- 🤝 I’m looking for help with **Testing**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++ & Flutter**
 
 - 📫 How to reach me **mail at sampurn10chouksey@gmail.com**
 
 - ⚡ Fun fact **I make jokes when I am uncomfortable**
-- 🖱️ <a href="https://drive.google.com/file/d/1IqUHRhMLqVfsOuBaQWUKY1rduM-ZFwJp/view?usp=sharing" >Click to view my resume</a> 
+
 
 
 ## 🌐 Socials:
