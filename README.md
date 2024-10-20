@@ -26,7 +26,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampurn44&label=Profile%20views&color=0e75b6&style=flat" alt="sampurn44" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sampurn_44" target="blank"><img src="https://img.shields.io/twitter/follow/sampurn_44?logo=twitter&style=for-the-badge" alt="sampurn_44" /></a> </p>
 <h3> 💫 About Me:</h3>
 
 -  🏢 I’m currently working at **Recruit CRM** as **Associate Software Engineer (SDET)**
@@ -46,7 +45,7 @@
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sampurn_44" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="sampurn_44" height="30" width="40" /> </a>
+
 <a href="https://www.linkedin.com/in/sampurn-chouksey-072a23220/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/sampurn-chouksey-072a23220/" height="30" width="40" /></a>
   <h3 align="left">Coding Platforms I use: </h3>
   <p align="left">
