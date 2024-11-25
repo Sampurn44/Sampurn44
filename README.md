@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" height="450" src="https://github.com/Sampurn44/Sampurn44/blob/38fd2f678773a2b15df806c13b7cd20349aaee48/ecaspe.png" alt="my banner">
+<img width="1000" height="450" src="https://github.com/Sampurn44/Sampurn44/blob/main/readmeimage.png" alt="my banner">
 
 </p>
 <h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Sampurn Chouksey</span> (Dev)</h1>
