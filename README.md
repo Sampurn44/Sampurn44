@@ -32,7 +32,7 @@
 
 -  🌱 I’m currently learning **Selenium**
 
-- 🤝 I’m looking for help with **Testing**
+- 🤝 I’m looking for help with **Automation Testing**
 
 - 💬 Ask me about **C++ & Flutter**
 
